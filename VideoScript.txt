@@ -1,0 +1,13 @@
+Wouldn't it be great to just know when everybody is free?
+First, Log in to groupscheduler and add your schedules.
+You can do it by using our own popup jframe.
+Kind a tricky, but I bet you can manage it. Computer Scientists, right?
+Almost done....
+Now log out and log in as one of your friends! well, If you know their password.
+Now we can see our mutual vacancies on the weekly calendar.
+Simiply click on one of them to add a new event. 
+The event will be automatically updated into everybody's calendar.
+I think I'm going to treat myself to a brunch with my friend after staying up 48 hours for this project.
+With Group Scheduler, say goodbye to all your hassels.
+
+Google Calendar import and Android applications coming soon! 

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/src/test" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <bytecodeTargetLevel>
+      <module name="groupscheduler_main" target="1.8" />
+      <module name="groupscheduler_test" target="1.8" />
+      <module name="projectw1_team376_main" target="1.8" />
+      <module name="projectw1_team376_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

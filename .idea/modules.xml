@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PersonalProject.iml" filepath="$PROJECT_DIR$/PersonalProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groupscheduler.iml" filepath="$PROJECT_DIR$/.idea/modules/groupscheduler.iml" group="groupscheduler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groupscheduler_main.iml" filepath="$PROJECT_DIR$/.idea/modules/groupscheduler_main.iml" group="groupscheduler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groupscheduler_test.iml" filepath="$PROJECT_DIR$/.idea/modules/groupscheduler_test.iml" group="groupscheduler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/715571759/projectw1_team376.iml" filepath="$PROJECT_DIR$/.idea/modules/715571759/projectw1_team376.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/715571759/projectw1_team376_main.iml" filepath="$PROJECT_DIR$/.idea/modules/715571759/projectw1_team376_main.iml" group="projectw1_team376" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/715571759/projectw1_team376_test.iml" filepath="$PROJECT_DIR$/.idea/modules/715571759/projectw1_team376_test.iml" group="projectw1_team376" />
+    </modules>
+  </component>
+</project>

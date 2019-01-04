@@ -1,0 +1,13 @@
+1. Start off as building a stand alone app
+
+each person can input schedules using a single device
+
+2. transfer into an app of an website
+
+give out joining codes whenever a new meeting schedule is requested
+you should be able to maintain your scehdules, when meetings happen it expires
+
+UI
+
+able to scroll down weeks or months
+should be able to jump to certain locations by input DD/MM/YYYY
